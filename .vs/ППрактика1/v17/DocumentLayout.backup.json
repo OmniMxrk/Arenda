@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|m:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\addapartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\addapartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\addapartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\addapartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|m:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\editapartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\editapartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\editapartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\editapartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|m:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|m:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|m:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\reviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\reviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|m:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\addapartmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\addapartmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|m:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|m:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\bookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\bookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\bookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\bookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|m:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED9D863-67C1-40F4-A9F4-D6047D2E5621}|\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301.csproj|solutionrelative:\u043F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddApartmentForm.cs [Design]",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.cs [Design]",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:13:51.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditApartmentForm.cs",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\EditApartmentForm.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\EditApartmentForm.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\EditApartmentForm.cs",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\EditApartmentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:04:19.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditApartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\EditApartmentForm.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\EditApartmentForm.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\EditApartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\EditApartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:04:16.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingsForm.cs",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\BookingsForm.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\BookingsForm.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\BookingsForm.cs",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\BookingsForm.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAAwJgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:26:31.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\UserForm.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\UserForm.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\UserForm.cs",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\UserForm.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:54:52.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AdminForm.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AdminForm.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AdminForm.cs",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AdminForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:12:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\DatabaseHelper.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\DatabaseHelper.cs",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:19:01.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddApartmentForm.cs",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.cs",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:50:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\BookingsForm.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\BookingsForm.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\BookingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\BookingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:40:01.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewForm.cs",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\ReviewForm.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\ReviewForm.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\ReviewForm.cs",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\ReviewForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:09:48.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AdminForm.Designer.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AdminForm.Designer.cs",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:11:12.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddApartmentForm.Designer.cs",
+              "DocumentMoniker": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.Designer.cs",
+              "RelativeDocumentMoniker": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.Designer.cs",
+              "ToolTip": "M:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21161\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.Designer.cs",
+              "RelativeToolTip": "\u041F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04301\\AddApartmentForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:50:20.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
